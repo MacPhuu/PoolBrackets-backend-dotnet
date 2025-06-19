@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\repositories\\playerhistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:repositories\\playerhistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\models\\playerhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:models\\playerhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\models\\playerinevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:models\\playerinevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\dtos\\addplayertomatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:dtos\\addplayertomatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\dtos\\matchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:dtos\\matchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\dtos\\addeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:dtos\\addeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\dtos\\matchpointupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:dtos\\matchpointupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\dtos\\playerhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:dtos\\playerhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\models\\enums\\matchstageenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:models\\enums\\matchstageenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\models\\enums\\matchbranchenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:models\\enums\\matchbranchenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\interfaces\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:interfaces\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\interfaces\\iplayerhistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:interfaces\\iplayerhistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\controllers\\playerhistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:controllers\\playerhistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|e:\\projects\\poolbrackets\\poolbrackets-backend-dotnet\\models\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8549A9-4814-46BC-AAEC-BF6942B20114}|PoolBrackets-backend-dotnet.csproj|solutionrelative:models\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 329,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Match.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Models\\Match.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\Match.cs",
+              "RelativeToolTip": "Models\\Match.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:20:27.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:01:26.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T08:12:56.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPlayerHistoryRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Interfaces\\IPlayerHistoryRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPlayerHistoryRepository.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Interfaces\\IPlayerHistoryRepository.cs",
+              "RelativeToolTip": "Interfaces\\IPlayerHistoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:12:47.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerInEvent.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\PlayerInEvent.cs",
+              "RelativeDocumentMoniker": "Models\\PlayerInEvent.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\PlayerInEvent.cs",
+              "RelativeToolTip": "Models\\PlayerInEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:23:21.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:44:12.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EventRepository.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "Repositories\\EventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:49:26.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerHistoryRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Repositories\\PlayerHistoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PlayerHistoryRepository.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Repositories\\PlayerHistoryRepository.cs",
+              "RelativeToolTip": "Repositories\\PlayerHistoryRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:49:18.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwD8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:24:53.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:26:44.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerHistory.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\PlayerHistory.cs",
+              "RelativeDocumentMoniker": "Models\\PlayerHistory.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\PlayerHistory.cs",
+              "RelativeToolTip": "Models\\PlayerHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:09:45.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Repositories\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PlayerRepository.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Repositories\\PlayerRepository.cs",
+              "RelativeToolTip": "Repositories\\PlayerRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:38:34.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MatchBranchEnum.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\Enums\\MatchBranchEnum.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\MatchBranchEnum.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\Enums\\MatchBranchEnum.cs",
+              "RelativeToolTip": "Models\\Enums\\MatchBranchEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:21:12.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MatchStageEnum.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\Enums\\MatchStageEnum.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\MatchStageEnum.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\Enums\\MatchStageEnum.cs",
+              "RelativeToolTip": "Models\\Enums\\MatchStageEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:21:24.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerHistoryDto.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\DTOs\\PlayerHistoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PlayerHistoryDto.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\DTOs\\PlayerHistoryDto.cs",
+              "RelativeToolTip": "DTOs\\PlayerHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:45:20.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddPlayerToMatchDto.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\DTOs\\AddPlayerToMatchDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AddPlayerToMatchDto.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\DTOs\\AddPlayerToMatchDto.cs",
+              "RelativeToolTip": "DTOs\\AddPlayerToMatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:35:09.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MatchPointUpdateDto.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\DTOs\\MatchPointUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MatchPointUpdateDto.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\DTOs\\MatchPointUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\MatchPointUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:18:43.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEventDto.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\DTOs\\AddEventDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AddEventDto.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\DTOs\\AddEventDto.cs",
+              "RelativeToolTip": "DTOs\\AddEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:38:16.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Interfaces\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEventRepository.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Interfaces\\IEventRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:04:01.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MatchRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Repositories\\MatchRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MatchRepository.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Repositories\\MatchRepository.cs",
+              "RelativeToolTip": "Repositories\\MatchRepository.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAASwM8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:34:11.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayerHistoriesController.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Controllers\\PlayerHistoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlayerHistoriesController.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Controllers\\PlayerHistoriesController.cs",
+              "RelativeToolTip": "Controllers\\PlayerHistoriesController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:12:43.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MatchesController.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Controllers\\MatchesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MatchesController.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Controllers\\MatchesController.cs",
+              "RelativeToolTip": "Controllers\\MatchesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:12:34.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlayersController.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "Controllers\\PlayersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:06:29.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Controllers\\EventsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowFcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:55:40.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:42:39.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IMatchRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Interfaces\\IMatchRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMatchRepository.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Interfaces\\IMatchRepository.cs",
+              "RelativeToolTip": "Interfaces\\IMatchRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:24:30.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MatchDto.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\DTOs\\MatchDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MatchDto.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\DTOs\\MatchDto.cs",
+              "RelativeToolTip": "DTOs\\MatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:22:44.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserLoginDto.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:22:42.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:18:56.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequestModel.cs",
+              "ToolTip": "E:\\Projects\\PoolBrackets\\PoolBrackets-backend-dotnet\\Models\\LoginRequestModel.cs",
+              "RelativeToolTip": "Models\\LoginRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:14:28.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
